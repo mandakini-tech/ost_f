@@ -9,6 +9,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
+    cout<<"hello world"<<endl;
 
     return 0;
 }
